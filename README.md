@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Danah.
+**Computer Science Graduate & Creative Technologist** based in Saudi Arabia.
 
-<!--
-**DanahKh8/DanahKh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in the intersection of **Software Engineering** and **Visual Design**. I am dedicated to crafting **innovative solutions** that bridge the gap between algorithmic logic and artistic expression.
 
-Here are some ideas to get you started:
+* 🎨 **Focus:** Computer Vision, Generative AI, Computational Creativity.
+* 🛠️ **Tech Stack:** Python, OpenCV, JavaScript, Assembly (SIC/XE).
+* 📍 **Location:** Saudi Arabia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Featured Projects
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **AI-Color-Palette** | Extracts aesthetic color palettes from images using unsupervised learning. | `Computer Vision` `K-Means` |
+| **In Development** | Exploring generative models for digital art. | `GenAI` |
