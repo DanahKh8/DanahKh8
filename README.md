@@ -10,5 +10,6 @@ I specialize in the intersection of **Software Engineering** and **Visual Design
 #### 🚀 Featured Projects
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **AI-Color-Palette** | Extracts aesthetic color palettes from images using unsupervised learning. | `Computer Vision` `K-Means` |
+| **[AI-Color-Palette](https://github.com/DanahKh8/AI-Color-Palette-Generator)** | Extracts aesthetic color palettes from images using unsupervised learning. | `Computer Vision` `K-Means` |
+| **[Touchless-Air-Mouse](https://github.com/DanahKh8/Touchless-Air-Mouse)** | A hands-free virtual mouse controller using real-time hand tracking. | `MediaPipe` `OpenCV` |
 | **In Development** | Exploring generative models for digital art. | `GenAI` |
